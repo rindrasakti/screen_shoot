@@ -1,0 +1,19 @@
+{
+  "CaptureArea": {
+    "X": 0,
+    "Y": 0,
+    "Width": 1920,
+    "Height": 1080
+  },
+  "IsCustomArea": false,
+  "ScreenshotIntervalSeconds": 10,
+  "PostCaptureDelaySeconds": 2,
+  "KeyToPress": "{RIGHT}",
+  "OutputFolder": "D:\\SCREEN_SHOOT\\Screenshots",
+  "StartIndex": 1,
+  "AutoDetectNextNumber": true,
+  "FileNameFormat": "{0}.png",
+  "TargetScreenshotCount": 100,
+  "UseTargetCount": true,
+  "MinimizeOnStart": true
+}
